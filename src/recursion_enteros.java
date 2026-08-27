@@ -1,10 +1,9 @@
 package test2;
 
-public class ejercicios {
+public class recursion_enteros {
 	
 	public static void main(String[]args) {
-	
-		System.out.println(fibrec(3));
+		inverso("JUAN");
 	}
 	
 	// suma entre 1 y n 
@@ -106,5 +105,4 @@ public class ejercicios {
 		
 		inverso( s.substring(0 , lengthStr));
 	}
-	
 }
